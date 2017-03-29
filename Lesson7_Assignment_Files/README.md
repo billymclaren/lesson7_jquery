@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 28, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(William McLaren)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project I used different commands to edit a recipe page in order to make it boht more stylish and useable.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://billymclaren.github.io/lesson7_jquery/Lesson7_Assignment_Files/index.html)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jQuery is written in Javascript.)
+2. (The jQuery library contains HTML/DOM manipulation.)
+3. (jQuery uses CSS selectors to select elements.)
